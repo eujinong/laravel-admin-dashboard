@@ -11,4 +11,4 @@ This repo is "Admin Dashboard with chart" module for Laravel + ReactJS
 
 ## Screen
 
-![Screen](https://github.com/eujinong/laravel-admin-dashboard/screen.png)
+![Screen](https://github.com/eujinong/laravel-admin-dashboard/blob/master/screen.png)
